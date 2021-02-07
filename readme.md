@@ -10,4 +10,5 @@ Project is created with:
 * CSS 3
 * HTML
 * JavaScript (Vanilla JS)
+* PHP
 	
