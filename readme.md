@@ -3,7 +3,7 @@
 
 
 ## General info
-WordPress theme for [watra.zhp.pl](https://watra.zh.pl) webpage.
+WordPress theme for [watra.zhp.pl](https://watra.zhp.pl) webpage.
 	
 ## Technologies
 Project is created with:
